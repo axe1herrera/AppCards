@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppCards/static/css/main.e6c13ad2.css",
+    "main.js": "/AppCards/static/js/main.c7e3ec46.js",
+    "static/js/453.7c6ff740.chunk.js": "/AppCards/static/js/453.7c6ff740.chunk.js",
+    "index.html": "/AppCards/index.html",
+    "main.e6c13ad2.css.map": "/AppCards/static/css/main.e6c13ad2.css.map",
+    "main.c7e3ec46.js.map": "/AppCards/static/js/main.c7e3ec46.js.map",
+    "453.7c6ff740.chunk.js.map": "/AppCards/static/js/453.7c6ff740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7e3ec46.js"
+  ]
+}
